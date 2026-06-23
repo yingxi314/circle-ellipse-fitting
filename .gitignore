@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+
+# Exported or duplicate notebook outputs
+*.html
+*.pdf
+projet_cercle.ipynb
+projet_cercle_解释版.ipynb
+解释版.*
