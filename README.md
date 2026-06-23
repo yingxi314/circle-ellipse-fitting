@@ -1,12 +1,12 @@
-# Projet MA266 - ajustement de cercles et d'ellipses
+# MA266 Project - Circle and Ellipse Fitting
 
-Ce projet contient un notebook Jupyter en francais sur l'ajustement par moindres carres de cercles et d'ellipses.
+This project contains a Jupyter Notebook in French about least-squares fitting of circles and ellipses.
 
-## Fichiers
+## Files
 
-- `Yingxi_YE-Shang_MA-projet_cercle.ipynb` : notebook principal.
-- `data_cercle` : donnees utilisees par le notebook, separees en `#data 1` et `#data 2`.
-- `requirements.txt` : dependances Python minimales.
+* `Yingxi_YE-Shang_MA-projet_cercle.ipynb`: main notebook.
+* `data_cercle`: data file used by the notebook, divided into `#data 1` and `#data 2`.
+* `requirements.txt`: minimal Python dependencies.
 
 ## Installation
 
@@ -16,10 +16,11 @@ python3 -m pip install -r requirements.txt
 
 ## Execution
 
-Lancer Jupyter depuis ce dossier, puis ouvrir et executer le notebook :
+Launch Jupyter from this folder, then open and run the notebook:
 
 ```bash
 jupyter notebook Yingxi_YE-Shang_MA-projet_cercle.ipynb
 ```
 
-Le fichier `data_cercle` doit rester dans le meme dossier que le notebook.
+The file `data_cercle` must remain in the same folder as the notebook.
+
